@@ -1,0 +1,13 @@
+.header-top
+{
+    background-image: linear-gradient(blue,darkblue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    height: 50px;
+    position: sticky;
+    top:0;
+}

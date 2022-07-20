@@ -1,0 +1,32 @@
+.sub-details
+{
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.item-photo
+{
+    background-color: white;
+    height: 550px;
+    width: 200px;
+    float: left;
+    border: 2px solid #ddd;
+}
+.item-details
+{
+    background-color: white;
+    height: 550px;
+    width: 1120px;
+    border: 2px solid #ddd;
+    float: left;
+    margin-left: 10px;
+    overflow-y: scroll;/*Slides down...*/
+}
+
+.flag-photo
+{
+    width: 200px;
+    height: 100px;
+
+}

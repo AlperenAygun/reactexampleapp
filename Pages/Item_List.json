@@ -1,0 +1,131 @@
+[
+    {
+        "id":1,
+        "key": "165A83Z",
+        "name":"New Invest",
+        "adress":"www.newinvest.com",
+        "job_type":"C# Developer",
+        "state": "Online",
+        "amount": 1350,
+        "main_country":"Almanya",
+        "experience": 5,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png"
+    },
+
+    {
+        "id":2,
+        "key":"45S52DD7",
+        "name":"Global Trade",
+        "adress":"www.globaltrade.com",
+        "job_type":"Java Developer",
+        "state": "Online",
+        "amount": 12550,
+        "main_country":"İsviçre",
+        "experience": 7,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/125px-Flag_of_Switzerland.svg.png"
+    },
+
+    {
+        "id":3,
+        "key":"DZGWW55",
+        "name":"Entrepreneur's Heaven",
+        "adress":"www.entrepreneursheaven.com",
+        "job_type":"Junior Front-End Developer",
+        "state": "Online",
+        "amount": 5000,
+        "main_country":"Fransa",
+        "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/125px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png"
+    },
+
+    {
+        "id":4,
+        "key":"852654Z",
+        "name":"New Start",
+        "adress":"www.newstart.com",
+        "job_type":"Senior Back-End Developer",
+        "state": "Offline",
+        "amount": 43000,
+        "main_country":"Belçika",
+        "experience": 9,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png"
+    },
+
+    {
+        "id":5,
+        "key":"QSFJT58",
+        "name":"Trade Alliance",
+        "adress":"www.tradealliance.com",
+        "job_type":"Senior IT Support",
+        "state": "Online",
+        "amount": 27000,
+        "main_country":"Hollanda",
+        "experience": 10,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png"
+    },
+
+    {
+        "id":6,
+        "key":"PKC86Z3",
+        "name":"Maxima Entrepreneurship",
+        "adress":"www.maximaent.com",
+        "job_type":"Senior Software Developer",
+        "state": "Online",
+        "amount": 10150,
+        "main_country":"Birleşik Krallık",
+        "experience": 15,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/125px-Flag_of_the_United_Kingdom.svg.png"
+    },
+
+    {
+        "id":7,
+        "key":"9640AAA",
+        "name":"Invest Online",
+        "adress":"www.investonline.com",
+        "job_type":"Mobile Developer",
+        "state": "Offline",
+        "amount": 15000,
+        "main_country":"Danimarka",
+        "experience": 8,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/125px-Flag_of_Denmark.svg.png"
+    },
+
+    {
+        "id":8,
+        "key":"7ETBS56",
+        "name":"Mark Studios",
+        "adress":"www.markstudios.com",
+        "job_type":"Junior Software Developer",
+        "state": "Online",
+        "amount": 56000,
+        "main_country":"İsveç",
+        "experience": 13,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/125px-Flag_of_Sweden.svg.png"
+    },
+
+    {
+        "id":9,
+        "key":"5UY6VTB",
+        "name":"Trade Interactive",
+        "adress":"www.tradinteractive.com",
+        "job_type":"Junior Front-End Developer",
+        "state": "Offline",
+        "amount": 33000,
+        "main_country":"Norveç",
+        "experience": 12,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/125px-Flag_of_Norway.svg.png"
+
+    },
+
+    {
+        "id":10,
+        "key":"8954WER",
+        "name":"Nothern Mobile Company",
+        "adress":"www.nothernmobile.com",
+        "job_type":"Mobile Developer",
+        "state": "Online",
+        "amount": 27500,
+        "main_country":"Finlandiya",
+        "experience": 8,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/125px-Flag_of_Finland.svg.png"
+    }
+]

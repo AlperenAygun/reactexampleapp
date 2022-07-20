@@ -1,0 +1,103 @@
+.header-top
+{
+    background-image: linear-gradient(blue,darkblue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.btn-deal-options
+{
+    background-image: linear-gradient(blue,darkblue);
+    color: white;
+    border: none;
+    height: 40px;
+    position: absolute;
+    right: 10px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.btn-deal-options:hover
+{
+    background-image: linear-gradient(white,white);
+    color: darkblue;
+    font-weight: 800;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+    overflow: hidden;
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    height: 270px;
+    width: 680px;
+    border: 1px solid #888;
+    
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .modal-content span
+  {
+    font-weight: lighter;
+  }
+
+  .search-form input
+  {
+    width: 700px;
+    height: 50px;
+    position: absolute;
+    top: 70px;
+    left: 250px;
+    font-size: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid black;
+  }
+
+  .srch-btn
+  {
+    width: 100px;
+    height: 54px;
+    position: absolute;
+    top: 70px;
+    left: 950px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
+  .srch-btn:hover
+  {
+    background-color: rgb(185, 185, 185);
+  }
