@@ -10,4 +10,14 @@ What is in the Project:
 
 - In the header the is a button that named "Giriş Yap" (Sign In in Turkish). When you click that it opens a modal with Sign In Page.(Sign In not working.)
 
-- 
+- All of items in JSON listed in body in card template.
+
+- You can enter that cards by clicking their buttons.
+
+- When user click the buttons that in the card. Website directs the user to the Details Page.
+
+- In the Details Page there is some extra informations about selected card that not seen in the card that in the main page. 
+
+P.S: I created this in Turkish language.
+
+Alperen AYGÜN.
